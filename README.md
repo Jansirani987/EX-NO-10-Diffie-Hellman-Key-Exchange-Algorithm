@@ -1,4 +1,4 @@
-<img width="392" height="288" alt="Screenshot (660)" src="https://github.com/user-attachments/assets/fac2a686-8227-4aaf-bdfc-ec86c7785064" /># EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
+# EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
